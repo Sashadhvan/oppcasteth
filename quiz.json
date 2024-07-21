@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of chemistry with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is H2O?",
+      "answers": ["Water", "Oxygen", "Hydrogen"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is NaCl?",
+      "answers": ["Salt", "Sugar", "Vinegar"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Element with symbol 'O'?",
+      "answers": ["Oxygen", "Osmium", "Gold"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is CO2?",
+      "answers": ["Carbon", "Methane", "Carbon dioxide"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is Fe?",
+      "answers": ["Iron", "Lead", "Tin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Atomic number of He?",
+      "answers": ["2", "3", "4"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is HCl?",
+      "answers": ["Acid", "Base", "Salt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is CH4?",
+      "answers": ["Methane", "Ethane", "Propane"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is NH3?",
+      "answers": ["Ammonia", "Nitrogen", "Helium"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Element with symbol 'K'?",
+      "answers": ["Potassium", "Calcium", "Krypton"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is SiO2?",
+      "answers": ["Quartz", "Sand", "Silica"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is H2SO4?",
+      "answers": ["Acid", "Base", "Salt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is C6H12O6?",
+      "answers": ["Glucose", "Fructose", "Sucrose"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Element with symbol 'Au'?",
+      "answers": ["Gold", "Silver", "Iron"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the pH of water?",
+      "answers": ["7", "5", "9"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is NaOH?",
+      "answers": ["Lye", "Salt", "Sugar"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the charge of an electron?",
+      "answers": ["-1", "+1", "0"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the formula for ozone?",
+      "answers": ["O3", "O2", "O"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Element with symbol 'N'?",
+      "answers": ["Nitrogen", "Neon", "Nickel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Atomic number of C?",
+      "answers": ["6", "12", "8"],
       "correctAnswerIndex": 0
     }
   ]
